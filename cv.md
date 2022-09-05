@@ -28,6 +28,10 @@ Master of Education	Kaluga, Russia
 
 Teacher of English, Russian, and Literature
 
+#### W3SCHOOL (2022)
+
+JavaScript Course 
+
 #### DEEPLEARNING.AI (2022)
 
 Deep Learning Specialization (5 courses)

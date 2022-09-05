@@ -32,6 +32,10 @@ Teacher of English, Russian, and Literature
 
 JavaScript Course 
 
+#### W3SCHOOL (2022)
+
+Python Course 
+
 #### DEEPLEARNING.AI (2022)
 
 Deep Learning Specialization (5 courses)

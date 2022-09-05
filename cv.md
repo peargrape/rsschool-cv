@@ -4,7 +4,7 @@
 
 ## Junior Frontend Developer
 
-+374 91 02 86 78 | karavaevms@gmail.com | @mikekarr (Telegram) 
++374 91 02 86 78 | karavaevms@gmail.com | @mikekarr (Telegram) ) | [Discord](https://discordapp.com/users/779019606282076161)
 
 A beginner in Frontend. Passionate about studying how to improve performance and get knew skills. Proficient in English. Also have basic knowledge in Machine Learning
 
